@@ -13,8 +13,14 @@
   animation: slideInFromRight 1s ease-in ; 
 }
 
+.slide-in-bottom {
+  -webkit-animation: slideInFromBottom 1s ease-in; 
+  animation: slideInFromBottom 1s ease-in ; 
+}
+
+
 @media print {
-  .slide-in-right, .slide-in-left, .reveal-text, .reveal-text::after {
+  .slide-in-right, .slide-in-left, .slide-in-bottom, .reveal-text, .reveal-text::after {
     animation: none;
     -webkit-animation: none;
   }
@@ -40,7 +46,8 @@
 @keyframes slideInFromRight { 0% { transform: translateX(100%); }}
 @-webkit-keyframes slideInFromLeft { 0% { transform: translateX(-100%); }}
 @keyframes slideInFromLeft { 0% { transform: translateX(-100%); }}
-
+@-webkit-keyframes slideInFromBottom { 0% {transform: translateY(100%);}}
+@keyframes slideInFromBottom { 0% { transform: translateY(100%); }}
 
 .reveal-text,
 .reveal-text::after {

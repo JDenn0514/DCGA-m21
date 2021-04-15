@@ -82,9 +82,26 @@ count:false
 ---
 class: 
 
+---
+
+layout:false
+
+class: split-25 bg-main1 hide-slide-number
+
+.row.bg-main1[.content.vmiddle[
+.center[
+#Security Cameras
+]
+]]
+
+.row.slide-in-bottom[
+.sliderbox.bg-main5.vmiddle[
+###Do you support or oppose the following policy? Security cameras should be installed in the hallways and entrances of residential buildings.
+]]
+
 
 ---
-layout:false
+
 class: split-30 with-thick-border
 
 .column.bg-main1[.content.vmiddle[
@@ -199,12 +216,29 @@ Do you support or oppose the following policy? Security cameras should be instal
 
 ---
 
+class: split-25 bg-main2 hide-slide-number
+
+.row.bg-main2[.content.vmiddle[
+.center[
+#Swipe Access
+]
+]]
+
+.row.slide-in-bottom[
+.sliderbox.bg-main5.vmiddle[
+.pad10px[
+###Starting this academic year, students no longer have swipe access to residential buildings other than their own. This decision was taken by the administration pre-COVID to maximize the safety of hall residents. Some students have reported that this decreases the chances of socializing and building connections with students who live in other dorm buildings, which may be an issue especially for first-year students. Do you support or oppose the decision to take away swipe access?
+]
+]]
+
+---
+
 class: split-30 with-thick-border 
 
 .column.bg-main2[.content.vmiddle[
 .center[
 #Swipe Access
-Starting this academic year, students no longer have swipe access to residential buildings other than their own. This decision was taken by the administration pre-COVID to maximize the safety of hall residents. Some students have reported that this decreases the chances of socializing and building connections with students who live in other dorm buildings, which may be an issue especially for first-year students. Do you support or oppose the decision to take away swipe access?
+Do you support or oppose the decision to take away swipe access?
 
 ]
 ]]
@@ -227,7 +261,7 @@ class: split-30 with-thick-border
 .column.bg-main2[.content.vmiddle[
 .center[
 #Swipe Access
-Starting this academic year, students no longer have swipe access to residential buildings other than their own. This decision was taken by the administration pre-COVID to maximize the safety of hall residents. Some students have reported that this decreases the chances of socializing and building connections with students who live in other dorm buildings, which may be an issue especially for first-year students. Do you support or oppose the decision to take away swipe access?
+Do you support or oppose the decision to take away swipe access?
 
 ]
 ]]
@@ -250,7 +284,7 @@ class: split-30 with-thick-border
 .column.bg-main2[.content.vmiddle[
 .center[
 #Swipe Access
-Starting this academic year, students no longer have swipe access to residential buildings other than their own. This decision was taken by the administration pre-COVID to maximize the safety of hall residents. Some students have reported that this decreases the chances of socializing and building connections with students who live in other dorm buildings, which may be an issue especially for first-year students. Do you support or oppose the decision to take away swipe access?
+Do you support or oppose the decision to take away swipe access?
 
 ]
 ]]
@@ -274,7 +308,7 @@ class: split-30 with-thick-border
 .column.bg-main2[.content.vmiddle[
 .center[
 #Swipe Access
-Starting this academic year, students no longer have swipe access to residential buildings other than their own. This decision was taken by the administration pre-COVID to maximize the safety of hall residents. Some students have reported that this decreases the chances of socializing and building connections with students who live in other dorm buildings, which may be an issue especially for first-year students. Do you support or oppose the decision to take away swipe access?
+Do you support or oppose the decision to take away swipe access?
 
 ]
 ]]
@@ -298,7 +332,7 @@ class: split-30 with-thick-border
 .column.bg-main2[.content.vmiddle[
 .center[
 #Swipe Access
-Starting this academic year, students no longer have swipe access to residential buildings other than their own. This decision was taken by the administration pre-COVID to maximize the safety of hall residents. Some students have reported that this decreases the chances of socializing and building connections with students who live in other dorm buildings, which may be an issue especially for first-year students. Do you support or oppose the decision to take away swipe access?
+Do you support or oppose the decision to take away swipe access?
 
 ]
 ]]
@@ -317,12 +351,29 @@ Starting this academic year, students no longer have swipe access to residential
 
 ---
 
+class: split-25 bg-main7 hide-slide-number
+
+.row.bg-main7[.content.vmiddle[
+.center[
+#Special Housing
+]
+]]
+
+.row.slide-in-bottom[
+.sliderbox.bg-main5.vmiddle[
+.pad10px[
+###Do you support or oppose the following effort? Housing is actively considering creating more special housing options that enable students to live in dorms centered around a community experience. Examples of these special housing options would include a language and culture house, research focused living communities, and study-abroad student communities.
+]
+]]
+
+
+---
 class: split-30 with-thick-border 
 
 .column.bg-main7[.content.vmiddle[
 .center[
 #Special Housing
-Do you support or oppose the following effort? Housing is actively considering creating more special housing options that enable students to live in dorms centered around a community experience. Examples of these special housing options would include a language and culture house, research focused living communities, and study-abroad student communities.
+Do you support or oppose the following effort? Housing is actively considering creating more special housing options that enable students to live in dorms centered around a community experience.
 ]
 ]]
 
@@ -344,7 +395,7 @@ class: split-30 with-thick-border
 .column.bg-main7[.content.vmiddle[
 .center[
 #Special Housing
-Do you support or oppose the following effort? Housing is actively considering creating more special housing options that enable students to live in dorms centered around a community experience. Examples of these special housing options would include a language and culture house, research focused living communities, and study-abroad student communities.
+Do you support or oppose the following effort? Housing is actively considering creating more special housing options that enable students to live in dorms centered around a community experience. 
 ]
 ]]
 
@@ -366,7 +417,7 @@ class: split-30 with-thick-border
 .column.bg-main7[.content.vmiddle[
 .center[
 #Special Housing
-Do you support or oppose the following effort? Housing is actively considering creating more special housing options that enable students to live in dorms centered around a community experience. Examples of these special housing options would include a language and culture house, research focused living communities, and study-abroad student communities.
+Do you support or oppose the following effort? Housing is actively considering creating more special housing options that enable students to live in dorms centered around a community experience.
 ]
 ]]
 
@@ -388,7 +439,7 @@ class: split-30 with-thick-border
 .column.bg-main7[.content.vmiddle[
 .center[
 #Special Housing
-Do you support or oppose the following effort? Housing is actively considering creating more special housing options that enable students to live in dorms centered around a community experience. Examples of these special housing options would include a language and culture house, research focused living communities, and study-abroad student communities.
+Do you support or oppose the following effort? Housing is actively considering creating more special housing options that enable students to live in dorms centered around a community experience.
 ]
 ]]
 
@@ -410,7 +461,7 @@ class: split-30 with-thick-border
 .column.bg-main7[.content.vmiddle[
 .center[
 #Special Housing
-Do you support or oppose the following effort? Housing is actively considering creating more special housing options that enable students to live in dorms centered around a community experience. Examples of these special housing options would include a language and culture house, research focused living communities, and study-abroad student communities.
+Do you support or oppose the following effort? Housing is actively considering creating more special housing options that enable students to live in dorms centered around a community experience. 
 ]
 ]]
 
@@ -427,6 +478,23 @@ Do you support or oppose the following effort? Housing is actively considering c
 
 ---
 
+class: split-25 bg-main6 hide-slide-number
+
+.row.bg-main6[.content.vmiddle[
+.center[
+#Audits
+]
+]]
+
+.row.slide-in-bottom[
+.sliderbox.bg-main5.vmiddle[
+.pad10px[
+###Do you support or oppose the following effort? Housing is actively considering creating more special housing options that enable students to live in dorms centered around a community experience. Examples of these special housing options would include a language and culture house, research focused living communities, and study-abroad student communities.
+]
+]]
+
+
+---
 
 class: split-30 with-thick-border 
 
@@ -538,12 +606,29 @@ Do you support or oppose the following efforts by DCGA? In the Fall of 2020, DCG
 
 ---
 
+class: split-25 bg-main8 hide-slide-number
+
+.row.bg-main8[.content.vmiddle[
+.center[
+#Student Advisory Board
+]
+]]
+
+.row.slide-in-bottom[
+.sliderbox.bg-main5.vmiddle[
+.pad10px[
+###Do you support or oppose the following effort by DCGA? In the Spring of 2019, DCGA passed a resolution creating a "Student Advisory Board"composed of 20 randomly selected students representative of the Denison Community. The purpose of the SAB is to deliberate on 1-2 proposals from DCGA each semester to ensure the student body is behind proposals and to increase the democratic legitimacy of DCGA policies.
+]
+]]
+
+---
+
 class: split-30 with-thick-border 
 
 .column.bg-main8[.content.vmiddle[
 .center[
 #Student Advisory Board
-Do you support or oppose the following effort by DCGA? In the Spring of 2019, DCGA passed a resolution creating a "Student Advisory Board"composed of 20 randomly selected students representative of the Denison Community. The purpose of the SAB is to deliberate on 1-2 proposals from DCGA each semester to ensure the student body is behind proposals and to increase the democratic legitimacy of DCGA policies.
+Do you support or oppose the following effort by DCGA? In the Spring of 2019, DCGA passed a resolution creating a "Student Advisory Board"composed of 20 randomly selected students representative of the Denison Community.
 ]
 ]]
 
@@ -566,7 +651,7 @@ class: split-30 with-thick-border
 .column.bg-main8[.content.vmiddle[
 .center[
 #Student Advisory Board
-Do you support or oppose the following effort by DCGA? In the Spring of 2019, DCGA passed a resolution creating a "Student Advisory Board"composed of 20 randomly selected students representative of the Denison Community. The purpose of the SAB is to deliberate on 1-2 proposals from DCGA each semester to ensure the student body is behind proposals and to increase the democratic legitimacy of DCGA policies.
+Do you support or oppose the following effort by DCGA? In the Spring of 2019, DCGA passed a resolution creating a "Student Advisory Board"composed of 20 randomly selected students representative of the Denison Community.
 ]
 ]]
 
@@ -589,7 +674,7 @@ class: split-30 with-thick-border
 .column.bg-main8[.content.vmiddle[
 .center[
 #Student Advisory Board
-Do you support or oppose the following effort by DCGA? In the Spring of 2019, DCGA passed a resolution creating a "Student Advisory Board"composed of 20 randomly selected students representative of the Denison Community. The purpose of the SAB is to deliberate on 1-2 proposals from DCGA each semester to ensure the student body is behind proposals and to increase the democratic legitimacy of DCGA policies.
+Do you support or oppose the following effort by DCGA? In the Spring of 2019, DCGA passed a resolution creating a "Student Advisory Board"composed of 20 randomly selected students representative of the Denison Community.
 ]
 ]]
 
@@ -611,7 +696,7 @@ class: split-30 with-thick-border
 .column.bg-main8[.content.vmiddle[
 .center[
 #Student Advisory Board
-Do you support or oppose the following effort by DCGA? In the Spring of 2019, DCGA passed a resolution creating a "Student Advisory Board"composed of 20 randomly selected students representative of the Denison Community. The purpose of the SAB is to deliberate on 1-2 proposals from DCGA each semester to ensure the student body is behind proposals and to increase the democratic legitimacy of DCGA policies.
+Do you support or oppose the following effort by DCGA? In the Spring of 2019, DCGA passed a resolution creating a "Student Advisory Board"composed of 20 randomly selected students representative of the Denison Community.
 ]
 ]]
 
@@ -634,7 +719,7 @@ class: split-30 with-thick-border
 .column.bg-main8[.content.vmiddle[
 .center[
 #Student Advisory Board
-Do you support or oppose the following effort by DCGA? In the Spring of 2019, DCGA passed a resolution creating a "Student Advisory Board"composed of 20 randomly selected students representative of the Denison Community. The purpose of the SAB is to deliberate on 1-2 proposals from DCGA each semester to ensure the student body is behind proposals and to increase the democratic legitimacy of DCGA policies.
+Do you support or oppose the following effort by DCGA? In the Spring of 2019, DCGA passed a resolution creating a "Student Advisory Board"composed of 20 randomly selected students representative of the Denison Community. 
 ]
 ]]
 
@@ -652,12 +737,29 @@ Do you support or oppose the following effort by DCGA? In the Spring of 2019, DC
 
 ---
 
+class: split-25 bg-main9 hide-slide-number
+
+.row.bg-main9[.content.vmiddle[
+.center[
+#Reserve Fund
+]
+]]
+
+.row.slide-in-bottom[
+.sliderbox.bg-main5.vmiddle[
+.pad10px[
+###Do you support or oppose the following efforts by DCGA? Each year, the unspent portion of the student activities fees that DCGA allocates to campus organizations goes into a reserve fund and accumulates. This pool of money can be used to fund special projects that benefit the entire student body- for example, the fund was used to establish the Nest on the 3rd floor of Slayter in 2014. The reserve fund can be opened up to spend if savings cross over $700,000. Proposals on how to best use the reserve fund can be brought forth by any student or group and must be approved by the DCGA Senate.
+]
+]]
+
+---
+
 class: split-30 with-thick-border 
 
 .column.bg-main9[.content.vmiddle[
 .center[
 #Reserve Fund
-Do you support or oppose the following efforts by DCGA? Each year, the unspent portion of the student activities fees that DCGA allocates to campus organizations goes into a reserve fund and accumulates. This pool of money can be used to fund special projects that benefit the entire student body- for example, the fund was used to establish the Nest on the 3rd floor of Slayter in 2014. The reserve fund can be opened up to spend if savings cross over $700,000. Proposals on how to best use the reserve fund can be brought forth by any student or group and must be approved by the DCGA Senate.
+Do you support or oppose the following efforts by DCGA? Each year, the unspent portion of the student activities fees that DCGA allocates to campus organizations goes into a reserve fund and accumulates. This pool of money can be used to fund special projects that benefit the entire student body.
 ]
 ]]
 
@@ -665,7 +767,7 @@ Do you support or oppose the following efforts by DCGA? Each year, the unspent p
 .column.bg-main5[.split-25.border-white[
 .row[.content.center[
 <br>
-###ALmost no opposition
+###Almost no opposition
 ]]
 .row[.content.nopadding[
 .fig90[![](images/fund3.png)]
