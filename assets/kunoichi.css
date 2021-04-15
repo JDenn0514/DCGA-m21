@@ -20,6 +20,7 @@
     --main-color7: #8A4198;
     --main-color8: #FF6348;
     --main-color9: #A9E184;
+    --main-color10: #3F404F;
     --text-color1: white;
     --text-color2: white;
     --text-color3: white;
@@ -29,6 +30,7 @@
     --text-color7: white;
     --text-color8: white;
     --text-color9: black;
+    --text-color10: white;
     --text-opacity: white;
     --link-color: #ecadec;
     --alert-color: #CF3C18;
@@ -91,7 +93,7 @@
 .bg-main7 { background-color: var(--main-color7); color: var(--text-color7);}
 .bg-main8 { background-color: var(--main-color8); color: var(--text-color8);}
 .bg-main9 { background-color: var(--main-color9); color: var(--text-color9);}
-
+.bg-main10 { background-color: var(--main-color10); color: var(--text-color10);}
 
 .bgcolor_alert { background-color: var(--alert-color)!important; color: var(--text-alert); }
 
