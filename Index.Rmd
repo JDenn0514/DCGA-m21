@@ -1,0 +1,768 @@
+---
+title: "Denison March 2021 Survey"
+subtitle: "DCGA Questions"
+author: "Jacob Dennen"
+institute: ""
+date: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["assets/kunoichi.css", "ninjutsu" , "assets/ninpo.css"]
+    self_contained: false
+    nature:
+      ratio: "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+layout: true
+class: split-two 
+
+.column.bg-main1[.content[
+  .split-three[
+ .row.bg-main1[.content[
+ # Security Cameras
+ ]]
+  .row.bg-main2[.content[
+     # Swipe Access
+ ]]
+   .row.bg-main7[.content[
+      # Special Housing
+ ]]
+ ]
+]]
+
+.column.bg-main1[.content.[
+  .split-three[
+ .row.bg-main6[.content[
+ # Audits
+ ]]
+  .row.bg-main8[.content[
+     # Student Advisory Board
+ ]]
+   .row.bg-main9[.content[
+      # Reserve Fund
+ ]]
+ ]
+]]
+]]
+
+
+---
+
+class: hide-row2-col1 hide-row3-col1 hide-row1-col2 hide-row2-col2 hide-row3-col2 
+
+
+
+---
+
+class:hide-row3-col1 hide-row1-col2 hide-row2-col2 hide-row3-col2
+count: false
+
+
+
+---
+
+class: hide-row1-col2 hide-row2-col2 hide-row3-col2 
+count: false
+
+
+
+---
+
+class: hide-row2-col2 hide-row3-col2 
+count:false
+
+---
+
+class:hide-row3-col2
+count:false
+
+---
+class: 
+
+
+---
+layout:false
+class: split-30 with-thick-border
+
+.column.bg-main1[.content.vmiddle[
+.center[
+#Security Cameras
+Do you support or oppose the following policy? Security cameras should be installed in the hallways and entrances of residential buildings.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###More students actively oppose cameras than support
+]]
+.row[.content.nopadding[
+.fig90[![](images/cams3.png)]
+]]
+]]
+
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main1[.content.vmiddle[
+.center[
+#Security Cameras
+Do you support or oppose the following policy? Security cameras should be installed in the hallways and entrances of residential buildings.
+]
+]]
+
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Women are much more supportive of security cameras than men
+]]
+.row[.content.nopadding[
+.fig90[![](images/cams3gender.png)]
+]]
+]]
+
+
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main1[.content.vmiddle[
+.center[
+#Security Cameras
+Do you support or oppose the following policy? Security cameras should be installed in the hallways and entrances of residential buildings.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Not much racial diversity for support but big differences in how many oppose cameras
+]]
+.row[.content.nopadding[
+.fig90[![](images/cams3race.png)]
+]]
+]]
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main1[.content.vmiddle[
+.center[
+#Security Cameras
+Do you support or oppose the following policy? Security cameras should be installed in the hallways and entrances of residential buildings.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Seniors and freshmen are the most supportive of security cameras
+]]
+.row[.content.nopadding[
+.fig90[![](images/cams3year.png)]
+]]
+]]
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main1[.content.vmiddle[
+.center[
+#Security Cameras
+Do you support or oppose the following policy? Security cameras should be installed in the hallways and entrances of residential buildings.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Cross Cultural Engagement most supportive, Athletes and Greeks  most opposed
+]]
+.row[.content.nopadding[
+.fig90[![](images/camsinv.png)]
+]]
+]]
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main2[.content.vmiddle[
+.center[
+#Swipe Access
+Starting this academic year, students no longer have swipe access to residential buildings other than their own. This decision was taken by the administration pre-COVID to maximize the safety of hall residents. Some students have reported that this decreases the chances of socializing and building connections with students who live in other dorm buildings, which may be an issue especially for first-year students. Do you support or oppose the decision to take away swipe access?
+
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Most students oppose limiting swipe access
+]]
+.row[.content.nopadding[
+.fig90[![](images/swipe3.png)]
+]]
+]]
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main2[.content.vmiddle[
+.center[
+#Swipe Access
+Starting this academic year, students no longer have swipe access to residential buildings other than their own. This decision was taken by the administration pre-COVID to maximize the safety of hall residents. Some students have reported that this decreases the chances of socializing and building connections with students who live in other dorm buildings, which may be an issue especially for first-year students. Do you support or oppose the decision to take away swipe access?
+
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Women more opposed than men
+]]
+.row[.content.nopadding[
+.fig90[![](images/swipe3gender.png)]
+]]
+]]
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main2[.content.vmiddle[
+.center[
+#Swipe Access
+Starting this academic year, students no longer have swipe access to residential buildings other than their own. This decision was taken by the administration pre-COVID to maximize the safety of hall residents. Some students have reported that this decreases the chances of socializing and building connections with students who live in other dorm buildings, which may be an issue especially for first-year students. Do you support or oppose the decision to take away swipe access?
+
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###A lot of diversity among different racial groups
+]]
+.row[.content.nopadding[
+.fig90[![](images/swipe3race.png)]
+]]
+]]
+
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main2[.content.vmiddle[
+.center[
+#Swipe Access
+Starting this academic year, students no longer have swipe access to residential buildings other than their own. This decision was taken by the administration pre-COVID to maximize the safety of hall residents. Some students have reported that this decreases the chances of socializing and building connections with students who live in other dorm buildings, which may be an issue especially for first-year students. Do you support or oppose the decision to take away swipe access?
+
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Freshmen least supportive and most opposed to increased swipe access
+]]
+.row[.content.nopadding[
+.fig90[![](images/swipe3year.png)]
+]]
+]]
+
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main2[.content.vmiddle[
+.center[
+#Swipe Access
+Starting this academic year, students no longer have swipe access to residential buildings other than their own. This decision was taken by the administration pre-COVID to maximize the safety of hall residents. Some students have reported that this decreases the chances of socializing and building connections with students who live in other dorm buildings, which may be an issue especially for first-year students. Do you support or oppose the decision to take away swipe access?
+
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Cross cultural engagement groups are most supportive are restricting swipe access
+]]
+.row[.content.nopadding[
+.fig90[![](images/swipeinv.png)]
+]]
+]]
+
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main7[.content.vmiddle[
+.center[
+#Special Housing
+Do you support or oppose the following effort? Housing is actively considering creating more special housing options that enable students to live in dorms centered around a community experience. Examples of these special housing options would include a language and culture house, research focused living communities, and study-abroad student communities.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###There is a lot more support for special housing than opposition
+]]
+.row[.content.nopadding[
+.fig90[![](images/house3.png)]
+]]
+]]
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main7[.content.vmiddle[
+.center[
+#Special Housing
+Do you support or oppose the following effort? Housing is actively considering creating more special housing options that enable students to live in dorms centered around a community experience. Examples of these special housing options would include a language and culture house, research focused living communities, and study-abroad student communities.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Almost no gender diversity
+]]
+.row[.content.nopadding[
+.fig90[![](images/house3gender.png)]
+]]
+]]
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main7[.content.vmiddle[
+.center[
+#Special Housing
+Do you support or oppose the following effort? Housing is actively considering creating more special housing options that enable students to live in dorms centered around a community experience. Examples of these special housing options would include a language and culture house, research focused living communities, and study-abroad student communities.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Blacks overwhelmingly support special housing
+]]
+.row[.content.nopadding[
+.fig90[![](images/house3race.png)]
+]]
+]]
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main7[.content.vmiddle[
+.center[
+#Special Housing
+Do you support or oppose the following effort? Housing is actively considering creating more special housing options that enable students to live in dorms centered around a community experience. Examples of these special housing options would include a language and culture house, research focused living communities, and study-abroad student communities.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Freshman and seniors are most supportive of special housing
+]]
+.row[.content.nopadding[
+.fig90[![](images/house3year.png)]
+]]
+]]
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main7[.content.vmiddle[
+.center[
+#Special Housing
+Do you support or oppose the following effort? Housing is actively considering creating more special housing options that enable students to live in dorms centered around a community experience. Examples of these special housing options would include a language and culture house, research focused living communities, and study-abroad student communities.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Cross cultural engagement groups are most supportive and Greeks are least supportive
+]]
+.row[.content.nopadding[
+.fig90[![](images/houseinv.png)]
+]]
+]]
+
+---
+
+
+class: split-30 with-thick-border 
+
+.column.bg-main6[.content.vmiddle[
+.center[
+#Audits
+Do you support or oppose the following efforts by DCGA? In the Fall of 2020, DCGA passed a resolution establishing finance audits for a randomly selected number of campus organizations per semester to ensure that clubs are spending allocated funds in accordance with their budget.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Almost no gender diversity
+]]
+.row[.content.nopadding[
+.fig90[![](images/audit3.png)]
+]]
+]]
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main6[.content.vmiddle[
+.center[
+#Audits
+Do you support or oppose the following efforts by DCGA? In the Fall of 2020, DCGA passed a resolution establishing finance audits for a randomly selected number of campus organizations per semester to ensure that clubs are spending allocated funds in accordance with their budget.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Men are slightly more opposed to audits than women
+]]
+.row[.content.nopadding[
+.fig90[![](images/audit3gender.png)]
+]]
+]]
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main6[.content.vmiddle[
+.center[
+#Audits
+Do you support or oppose the following efforts by DCGA? In the Fall of 2020, DCGA passed a resolution establishing finance audits for a randomly selected number of campus organizations per semester to ensure that clubs are spending allocated funds in accordance with their budget.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Very little racial diversity
+]]
+.row[.content.nopadding[
+.fig90[![](images/audit3race.png)]
+]]
+]]
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main6[.content.vmiddle[
+.center[
+#Audits
+Do you support or oppose the following efforts by DCGA? In the Fall of 2020, DCGA passed a resolution establishing finance audits for a randomly selected number of campus organizations per semester to ensure that clubs are spending allocated funds in accordance with their budget.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Very little difference among class years
+]]
+.row[.content.nopadding[
+.fig90[![](images/audit3year.png)]
+]]
+]]
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main6[.content.vmiddle[
+.center[
+#Audits
+Do you support or oppose the following efforts by DCGA? In the Fall of 2020, DCGA passed a resolution establishing finance audits for a randomly selected number of campus organizations per semester to ensure that clubs are spending allocated funds in accordance with their budget.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###DCGA is most supportive
+]]
+.row[.content.nopadding[
+.fig90[![](images/auditinv.png)]
+]]
+]]
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main8[.content.vmiddle[
+.center[
+#Student Advisory Board
+Do you support or oppose the following effort by DCGA? In the Spring of 2019, DCGA passed a resolution creating a "Student Advisory Board"composed of 20 randomly selected students representative of the Denison Community. The purpose of the SAB is to deliberate on 1-2 proposals from DCGA each semester to ensure the student body is behind proposals and to increase the democratic legitimacy of DCGA policies.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Virtually no opposition 
+]]
+.row[.content.nopadding[
+.fig90[![](images/sab3.png)]
+]]
+]]
+
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main8[.content.vmiddle[
+.center[
+#Student Advisory Board
+Do you support or oppose the following effort by DCGA? In the Spring of 2019, DCGA passed a resolution creating a "Student Advisory Board"composed of 20 randomly selected students representative of the Denison Community. The purpose of the SAB is to deliberate on 1-2 proposals from DCGA each semester to ensure the student body is behind proposals and to increase the democratic legitimacy of DCGA policies.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Little gender difference in support or opposition
+]]
+.row[.content.nopadding[
+.fig90[![](images/sab3gender.png)]
+]]
+]]
+
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main8[.content.vmiddle[
+.center[
+#Student Advisory Board
+Do you support or oppose the following effort by DCGA? In the Spring of 2019, DCGA passed a resolution creating a "Student Advisory Board"composed of 20 randomly selected students representative of the Denison Community. The purpose of the SAB is to deliberate on 1-2 proposals from DCGA each semester to ensure the student body is behind proposals and to increase the democratic legitimacy of DCGA policies.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Little gender difference in support or opposition
+]]
+.row[.content.nopadding[
+.fig90[![](images/sab3race.png)]
+]]
+]]
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main8[.content.vmiddle[
+.center[
+#Student Advisory Board
+Do you support or oppose the following effort by DCGA? In the Spring of 2019, DCGA passed a resolution creating a "Student Advisory Board"composed of 20 randomly selected students representative of the Denison Community. The purpose of the SAB is to deliberate on 1-2 proposals from DCGA each semester to ensure the student body is behind proposals and to increase the democratic legitimacy of DCGA policies.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Juniors are most supportive, and seniors and sophomores have the most opposition
+]]
+.row[.content.nopadding[
+.fig90[![](images/sab3year.png)]
+]]
+]]
+
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main8[.content.vmiddle[
+.center[
+#Student Advisory Board
+Do you support or oppose the following effort by DCGA? In the Spring of 2019, DCGA passed a resolution creating a "Student Advisory Board"composed of 20 randomly selected students representative of the Denison Community. The purpose of the SAB is to deliberate on 1-2 proposals from DCGA each semester to ensure the student body is behind proposals and to increase the democratic legitimacy of DCGA policies.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+### DCGA by far the most supportive
+]]
+.row[.content.nopadding[
+.fig90[![](images/sabinv.png)]
+]]
+]]
+
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main9[.content.vmiddle[
+.center[
+#Reserve Fund
+Do you support or oppose the following efforts by DCGA? Each year, the unspent portion of the student activities fees that DCGA allocates to campus organizations goes into a reserve fund and accumulates. This pool of money can be used to fund special projects that benefit the entire student body- for example, the fund was used to establish the Nest on the 3rd floor of Slayter in 2014. The reserve fund can be opened up to spend if savings cross over $700,000. Proposals on how to best use the reserve fund can be brought forth by any student or group and must be approved by the DCGA Senate.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###ALmost no opposition
+]]
+.row[.content.nopadding[
+.fig90[![](images/fund3.png)]
+]]
+]]
+
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main9[.content.vmiddle[
+.center[
+#Reserve Fund
+Do you support or oppose the following efforts by DCGA? Each year, the unspent portion of the student activities fees that DCGA allocates to campus organizations goes into a reserve fund and accumulates. This pool of money can be used to fund special projects that benefit the entire student body- for example, the fund was used to establish the Nest on the 3rd floor of Slayter in 2014. The reserve fund can be opened up to spend if savings cross over $700,000. Proposals on how to best use the reserve fund can be brought forth by any student or group and must be approved by the DCGA Senate.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+### Little gender difference in support or opposition
+]]
+.row[.content.nopadding[
+.fig90[![](images/fund3gender.png)]
+]]
+]]
+
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main9[.content.vmiddle[
+.center[
+#Reserve Fund
+Do you support or oppose the following efforts by DCGA? Each year, the unspent portion of the student activities fees that DCGA allocates to campus organizations goes into a reserve fund and accumulates. This pool of money can be used to fund special projects that benefit the entire student body- for example, the fund was used to establish the Nest on the 3rd floor of Slayter in 2014. The reserve fund can be opened up to spend if savings cross over $700,000. Proposals on how to best use the reserve fund can be brought forth by any student or group and must be approved by the DCGA Senate.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+### Little gender difference in support or opposition
+]]
+.row[.content.nopadding[
+.fig90[![](images/fund3race.png)]
+]]
+]]
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main9[.content.vmiddle[
+.center[
+#Reserve Fund
+Do you support or oppose the following efforts by DCGA? Each year, the unspent portion of the student activities fees that DCGA allocates to campus organizations goes into a reserve fund and accumulates. This pool of money can be used to fund special projects that benefit the entire student body- for example, the fund was used to establish the Nest on the 3rd floor of Slayter in 2014. The reserve fund can be opened up to spend if savings cross over $700,000. Proposals on how to best use the reserve fund can be brought forth by any student or group and must be approved by the DCGA Senate.
+]
+]]
+
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+### Little gender difference in support or opposition
+]]
+.row[.content.nopadding[
+.fig90[![](images/fund3year.png)]
+]]
+]]
+
+---
+
+class: split-30 with-thick-border 
+
+.column.bg-main9[.content.vmiddle[
+.center[
+#Reserve Fund
+Do you support or oppose the following efforts by DCGA? Each year, the unspent portion of the student activities fees that DCGA allocates to campus organizations goes into a reserve fund and accumulates. This pool of money can be used to fund special projects that benefit the entire student body- for example, the fund was used to establish the Nest on the 3rd floor of Slayter in 2014. The reserve fund can be opened up to spend if savings cross over $700,000. Proposals on how to best use the reserve fund can be brought forth by any student or group and must be approved by the DCGA Senate.
+]
+]]
+
+.column.bg-main5[.split-25.border-white[
+.row[.content.center[
+<br>
+###Little gender difference in support or opposition
+]]
+.row[.content.nopadding[
+.fig90[![](images/fundinv.png)]
+]]
+]]
+
+
+
+
+
+
