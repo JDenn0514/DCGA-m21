@@ -43,7 +43,7 @@
     --color-opacity50: rgba(86,36,87,0.5);
     --color-opacity30: rgba(86,36,87,0.3);
     --logo: url("../images/R-LadiesGlobal-transparent.png");
-    --title-background: url("../bkgs/bg1.jpg");
+    --title-background: #FFC300;
 }
 
 .title-slide {

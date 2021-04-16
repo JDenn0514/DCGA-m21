@@ -14,20 +14,150 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
+
 ---
 
-layout: true
-class: split-two 
+class: split-20
 
+.row.bg-main4[.content.vmiddle[
+.center[
+#What we will be discussing
+]
+]]
+
+.row[.split-two[
 .column.bg-main1[.content[
   .split-three[
- .row.bg-main1[.content[
+ .row.bg-main1[.content.vmiddle.center[
+ # 
+ ]]
+  .row.bg-main2[.content.vmiddle.center[
+     # 
+ ]]
+   .row.bg-main7[.content.vmiddle.center[
+      # 
+ ]]
+ ]
+]]
+
+.column.bg-main1[.content.[
+  .split-three[
+ .row.bg-main6[.content[
+ # 
+ ]]
+  .row.bg-main8[.content[
+     # 
+ ]]
+   .row.bg-main9[.content[
+      # 
+ ]]
+ ]
+]]
+]]
+]]]
+
+---
+
+class: split-20
+
+.row.bg-main4[.content.vmiddle[
+.center[
+#What we will be discussing
+]
+]]
+
+.row[.split-two[
+.column.bg-main1[.content[
+  .split-three[
+ .row.bg-main1[.content.vmiddle.center[
  # Security Cameras
  ]]
-  .row.bg-main2[.content[
+  .row.bg-main2[.content.vmiddle.center[
+     # 
+ ]]
+   .row.bg-main7[.content.vmiddle.center[
+      # 
+ ]]
+ ]
+]]
+
+.column.bg-main1[.content.[
+  .split-three[
+ .row.bg-main6[.content[
+ # 
+ ]]
+  .row.bg-main8[.content[
+     # 
+ ]]
+   .row.bg-main9[.content[
+      # 
+ ]]
+ ]
+]]
+]]
+]]]
+
+---
+
+class: split-20
+
+.row.bg-main4[.content.vmiddle[
+.center[
+#What we will be discussing
+]
+]]
+
+.row[.split-two[
+.column.bg-main1[.content[
+  .split-three[
+ .row.bg-main1[.content.vmiddle.center[
+ # Security Cameras
+ ]]
+  .row.bg-main2[.content.vmiddle.center[
      # Swipe Access
  ]]
-   .row.bg-main7[.content[
+   .row.bg-main7[.content.vmiddle.center[
+      # 
+ ]]
+ ]
+]]
+
+.column.bg-main1[.content.[
+  .split-three[
+ .row.bg-main6[.content[
+ # 
+ ]]
+  .row.bg-main8[.content[
+     # 
+ ]]
+   .row.bg-main9[.content[
+      # 
+ ]]
+ ]
+]]
+]]
+]]]
+
+---
+
+class: split-20
+
+.row.bg-main4[.content.vmiddle[
+.center[
+#What we will be discussing
+]
+]]
+
+.row[.split-two[
+.column.bg-main1[.content[
+  .split-three[
+ .row.bg-main1[.content.vmiddle.center[
+ # Security Cameras
+ ]]
+  .row.bg-main2[.content.vmiddle.center[
+     # Swipe Access
+ ]]
+   .row.bg-main7[.content.vmiddle.center[
       # Special Housing
  ]]
  ]
@@ -36,55 +166,143 @@ class: split-two
 .column.bg-main1[.content.[
   .split-three[
  .row.bg-main6[.content[
+ # 
+ ]]
+  .row.bg-main8[.content[
+     # 
+ ]]
+   .row.bg-main9[.content[
+      # 
+ ]]
+ ]
+]]
+]]
+]]]
+
+---
+
+class: split-20
+
+.row.bg-main4[.content.vmiddle[
+.center[
+#What we will be discussing
+]
+]]
+
+.row[.split-two[
+.column.bg-main1[.content[
+  .split-three[
+ .row.bg-main1[.content.vmiddle.center[
+ # Security Cameras
+ ]]
+  .row.bg-main2[.content.vmiddle.center[
+     # Swipe Access
+ ]]
+   .row.bg-main7[.content.vmiddle.center[
+      # Special Housing
+ ]]
+ ]
+]]
+
+.column.bg-main1[.content[
+  .split-three[
+ .row.bg-main6[.content.vmiddle.center[
  # Audits
  ]]
   .row.bg-main8[.content[
-     # Student Advisory Board
+     # 
  ]]
    .row.bg-main9[.content[
+      # 
+ ]]
+ ]
+]]
+]]
+]]]
+
+---
+
+class: split-20
+
+.row.bg-main4[.content.vmiddle[
+.center[
+#What we will be discussing
+]
+]]
+
+.row[.split-two[
+.column.bg-main1[.content[
+  .split-three[
+ .row.bg-main1[.content.vmiddle.center[
+ # Security Cameras
+ ]]
+  .row.bg-main2[.content.vmiddle.center[
+     # Swipe Access
+ ]]
+   .row.bg-main7[.content.vmiddle.center[
+      # Special Housing
+ ]]
+ ]
+]]
+
+.column.bg-main1[.content[
+  .split-three[
+ .row.bg-main6[.content.vmiddle.center[
+ # Audits
+ ]]
+  .row.bg-main8[.content.vmiddle.center[
+     # Student Advisory Board
+ ]]
+   .row.bg-main9[.content.vmiddle.center[
+      # 
+ ]]
+ ]
+]]
+]]
+]]]
+
+---
+
+class: split-20
+
+.row.bg-main4[.content.vmiddle[
+.center[
+#What we will be discussing
+]
+]]
+
+.row[.split-two[
+.column.bg-main1[.content[
+  .split-three[
+ .row.bg-main1[.content.vmiddle.center[
+ # Security Cameras
+ ]]
+  .row.bg-main2[.content.vmiddle.center[
+     # Swipe Access
+ ]]
+   .row.bg-main7[.content.vmiddle.center[
+      # Special Housing
+ ]]
+ ]
+]]
+
+.column.bg-main1[.content[
+  .split-three[
+ .row.bg-main6[.content.vmiddle.center[
+ # Audits
+ ]]
+  .row.bg-main8[.content.vmiddle.center[
+     # Student Advisory Board
+ ]]
+   .row.bg-main9[.content.vmiddle.center[
       # Reserve Fund
  ]]
  ]
 ]]
 ]]
-
-
----
-
-class: hide-row2-col1 hide-row3-col1 hide-row1-col2 hide-row2-col2 hide-row3-col2 
-
-
+]]]
 
 ---
-
-class:hide-row3-col1 hide-row1-col2 hide-row2-col2 hide-row3-col2
-count: false
-
-
-
----
-
-class: hide-row1-col2 hide-row2-col2 hide-row3-col2 
-count: false
-
-
-
----
-
-class: hide-row2-col2 hide-row3-col2 
-count:false
-
----
-
-class:hide-row3-col2
-count:false
-
----
-class: 
-
----
-
-layout:false
 
 class: split-25 bg-main1 hide-slide-number
 
@@ -425,7 +643,7 @@ Do you support or oppose the following effort? Housing is actively considering c
 .column.bg-main5[.split-25.border-white[
 .row[.content.center[
 <br>
-###Blacks overwhelmingly support special housing
+###Black students overwhelmingly support special housing
 ]]
 .row[.content.nopadding[
 .fig90[![](images/house3race.png)]
@@ -597,7 +815,7 @@ Do you support or oppose the following efforts by DCGA? In the Fall of 2020, DCG
 .column.bg-main5[.split-25.border-white[
 .row[.content.center[
 <br>
-###DCGA is most supportive
+###DCGA is most supportive. Religious/spiritual life groups are least supportive
 ]]
 .row[.content.nopadding[
 .fig90[![](images/auditinv.png)]
@@ -682,7 +900,7 @@ Do you support or oppose the following effort by DCGA? In the Spring of 2019, DC
 .column.bg-main5[.split-25.border-white[
 .row[.content.center[
 <br>
-###Little gender difference in support or opposition
+###"Other" students and Asian students are least supportive of SAB
 ]]
 .row[.content.nopadding[
 .fig90[![](images/sab3race.png)]
@@ -704,7 +922,7 @@ Do you support or oppose the following effort by DCGA? In the Spring of 2019, DC
 .column.bg-main5[.split-25.border-white[
 .row[.content.center[
 <br>
-###Juniors are most supportive, and seniors and sophomores have the most opposition
+###Not much variation but Juniors are most supportive
 ]]
 .row[.content.nopadding[
 .fig90[![](images/sab3year.png)]
@@ -727,7 +945,7 @@ Do you support or oppose the following effort by DCGA? In the Spring of 2019, DC
 .column.bg-main5[.split-25.border-white[
 .row[.content.center[
 <br>
-### DCGA by far the most supportive
+### DCGA by far the most supportive. Not much differentiation among other groups.
 ]]
 .row[.content.nopadding[
 .fig90[![](images/sabinv.png)]
@@ -782,7 +1000,7 @@ class: split-30 with-thick-border
 .column.bg-main9[.content.vmiddle[
 .center[
 #Reserve Fund
-Do you support or oppose the following efforts by DCGA? Each year, the unspent portion of the student activities fees that DCGA allocates to campus organizations goes into a reserve fund and accumulates. This pool of money can be used to fund special projects that benefit the entire student body- for example, the fund was used to establish the Nest on the 3rd floor of Slayter in 2014. The reserve fund can be opened up to spend if savings cross over $700,000. Proposals on how to best use the reserve fund can be brought forth by any student or group and must be approved by the DCGA Senate.
+Do you support or oppose the following efforts by DCGA? Each year, the unspent portion of the student activities fees that DCGA allocates to campus organizations goes into a reserve fund and accumulates. This pool of money can be used to fund special projects that benefit the entire student body.
 ]
 ]]
 
@@ -805,7 +1023,7 @@ class: split-30 with-thick-border
 .column.bg-main9[.content.vmiddle[
 .center[
 #Reserve Fund
-Do you support or oppose the following efforts by DCGA? Each year, the unspent portion of the student activities fees that DCGA allocates to campus organizations goes into a reserve fund and accumulates. This pool of money can be used to fund special projects that benefit the entire student body- for example, the fund was used to establish the Nest on the 3rd floor of Slayter in 2014. The reserve fund can be opened up to spend if savings cross over $700,000. Proposals on how to best use the reserve fund can be brought forth by any student or group and must be approved by the DCGA Senate.
+Do you support or oppose the following efforts by DCGA? Each year, the unspent portion of the student activities fees that DCGA allocates to campus organizations goes into a reserve fund and accumulates. This pool of money can be used to fund special projects that benefit the entire student body.
 ]
 ]]
 
@@ -813,7 +1031,7 @@ Do you support or oppose the following efforts by DCGA? Each year, the unspent p
 .column.bg-main5[.split-25.border-white[
 .row[.content.center[
 <br>
-### Little gender difference in support or opposition
+### "Other" and Asian students are least supportive. Hispanics are most supportive.
 ]]
 .row[.content.nopadding[
 .fig90[![](images/fund3race.png)]
@@ -827,7 +1045,7 @@ class: split-30 with-thick-border
 .column.bg-main9[.content.vmiddle[
 .center[
 #Reserve Fund
-Do you support or oppose the following efforts by DCGA? Each year, the unspent portion of the student activities fees that DCGA allocates to campus organizations goes into a reserve fund and accumulates. This pool of money can be used to fund special projects that benefit the entire student body- for example, the fund was used to establish the Nest on the 3rd floor of Slayter in 2014. The reserve fund can be opened up to spend if savings cross over $700,000. Proposals on how to best use the reserve fund can be brought forth by any student or group and must be approved by the DCGA Senate.
+Do you support or oppose the following efforts by DCGA? Each year, the unspent portion of the student activities fees that DCGA allocates to campus organizations goes into a reserve fund and accumulates. This pool of money can be used to fund special projects that benefit the entire student body.
 ]
 ]]
 
@@ -835,7 +1053,7 @@ Do you support or oppose the following efforts by DCGA? Each year, the unspent p
 .column.bg-main5[.split-25.border-white[
 .row[.content.center[
 <br>
-### Little gender difference in support or opposition
+### Seniors are least supportive and Freshmen are most supportive.
 ]]
 .row[.content.nopadding[
 .fig90[![](images/fund3year.png)]
@@ -849,14 +1067,14 @@ class: split-30 with-thick-border
 .column.bg-main9[.content.vmiddle[
 .center[
 #Reserve Fund
-Do you support or oppose the following efforts by DCGA? Each year, the unspent portion of the student activities fees that DCGA allocates to campus organizations goes into a reserve fund and accumulates. This pool of money can be used to fund special projects that benefit the entire student body- for example, the fund was used to establish the Nest on the 3rd floor of Slayter in 2014. The reserve fund can be opened up to spend if savings cross over $700,000. Proposals on how to best use the reserve fund can be brought forth by any student or group and must be approved by the DCGA Senate.
+Do you support or oppose the following efforts by DCGA? Each year, the unspent portion of the student activities fees that DCGA allocates to campus organizations goes into a reserve fund and accumulates. This pool of money can be used to fund special projects that benefit the entire student body.
 ]
 ]]
 
 .column.bg-main5[.split-25.border-white[
 .row[.content.center[
 <br>
-###Little gender difference in support or opposition
+###DCGA and cross cultural engagement groups are most supportive.
 ]]
 .row[.content.nopadding[
 .fig90[![](images/fundinv.png)]
